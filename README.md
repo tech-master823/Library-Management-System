@@ -1,6 +1,6 @@
-![Python package](https://github.com/kumaraditya303/Library-Management-System/workflows/Python%20package/badge.svg?branch=master)
+![Python package](https://github.com/tech-master823/Library-Management-System/workflows/Python%20package/badge.svg?branch=master)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkumaraditya303%2FLibrary-Management-System&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftech-master823%2FLibrary-Management-System&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Library Management System
 
@@ -20,7 +20,7 @@ Project live on [Heroku](http://librarymgmtsystem.herokuapp.com)
 - Clone the repository.
 
 ```sh
-$ git clone https://github.com/kumaraditya303/Library-Managament-System.git
+$ git clone https://github.com/tech-master823/Library-Managament-System.git
 $ cd Library-Management-System
 ```
 
@@ -45,4 +45,4 @@ $ python wsgi.py
 
 - Navigate to http://127.0.0.1:5000/
 
-# Project made and maintained by [Kumar Aditya](https://www.github.com/kumaraditya303)
+# Project made and maintained by [Gustavo Pacheco](https://www.github.com/tech-master823)
